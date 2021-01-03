@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rahuldshetty.github.io/sitemap.xml
