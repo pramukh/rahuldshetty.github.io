@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reactjs on rds-blog</title>
+    <link>https://rahuldshetty.github.io/tags/reactjs/</link>
+    <description>Recent content in reactjs on rds-blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 08 Feb 2021 21:00:00 +0530</lastBuildDate><atom:link href="https://rahuldshetty.github.io/tags/reactjs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using ReactJS &amp; TensorflowJS for Text Classification</title>
+      <link>https://rahuldshetty.github.io/blog/using-reactjs-tensorflowjs-for-text-classification/</link>
+      <pubDate>Mon, 08 Feb 2021 21:00:00 +0530</pubDate>
+      
+      <guid>https://rahuldshetty.github.io/blog/using-reactjs-tensorflowjs-for-text-classification/</guid>
+      <description>Live Demo: Indian Name Classification
+Source Code: Github
+Python Code: Notebook
+Intro to Text Classification Often times human use logic and knowledge to analyze different things. For Example, A botanist could identify and name different species of plants than a normal person. While the normal person could use logic to say how plants differ based on their shape, size and color of the leaves. This problem of identifying the class/category of any object is known as Classification.</description>
+    </item>
+    
+  </channel>
+</rss>
