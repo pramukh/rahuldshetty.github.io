@@ -4,6 +4,7 @@
     height: 100%;
 }
 
+
 .github-cards{
     display: flex;
     flex-flow: row;
@@ -19,8 +20,15 @@
     color: #555;
     font-size: 13px;
     flex: auto;
-    max-width: 350px;
-    border-collapse: collapse;
+    max-width: 280px;
+    border-collapse: collapse;  
+}
+
+.github-metadata {
+    display: flex;
+    align-items: stretch;
+    align-content: stretch;
+    flex-direction: column;
 }
 
 .github-card h3{
@@ -39,7 +47,6 @@
 
 .github-card-rating{
     vertical-align : bottom;
-    align-self: flex-end;
 }
 
 ion-icon {
