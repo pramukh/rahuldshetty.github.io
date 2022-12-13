@@ -1,0 +1,47 @@
+.github-card > a, u {
+    text-decoration: none;
+    box-shadow: none;
+    height: 100%;
+}
+
+.github-cards{
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    width: 900px;
+}
+
+.github-card{
+    display: flex;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 20px;
+    color: #555;
+    font-size: 13px;
+    flex: auto;
+    max-width: 350px;
+    border-collapse: collapse;
+}
+
+.github-card h3{
+    margin-top: 0;
+    color: #4078c0;
+    font-size: 15px;
+}
+
+.github-card__meta {
+    margin-right: 20px;
+}
+
+.github-card__meta i {
+    font-size: 16px;
+}
+
+.github-card-rating{
+    vertical-align : bottom;
+    align-self: flex-end;
+}
+
+ion-icon {
+    font-size: 16px;
+}
