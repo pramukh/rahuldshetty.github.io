@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>programming-language on rds</title>
+    <link>https://rahuldshetty.github.io/tags/programming-language/</link>
+    <description>Recent content in programming-language on rds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0530</lastBuildDate><atom:link href="https://rahuldshetty.github.io/tags/programming-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I created my own Programming Language ?</title>
+      <link>https://rahuldshetty.github.io/blog/how-i-created-my-own-programming-lanaguage/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://rahuldshetty.github.io/blog/how-i-created-my-own-programming-lanaguage/</guid>
+      <description>Introduction Programming languages are nothing but programs written by other programmers for you to program your programs. These days developers take programming language for granted, not everyone are interested in understanding the complexity that goes behind a simple &amp;ldquo;Hello world&amp;rdquo; program until they run into issue for their complex program where they need to start digging into the Source code program to find out why there is a weird Null Pointer Exception or memory leak happening in the code.</description>
+    </item>
+    
+  </channel>
+</rss>

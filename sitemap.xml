@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rahuldshetty.github.io/blog/how-i-created-my-own-programming-lanaguage/</loc>
+    <lastmod>2022-12-18T00:00:00+05:30</lastmod>
+  </url><url>
     <loc>https://rahuldshetty.github.io/blog/using-reactjs-tensorflowjs-for-text-classification/</loc>
     <lastmod>2021-02-08T21:00:00+05:30</lastmod>
   </url><url>
@@ -14,13 +17,28 @@
     <loc>https://rahuldshetty.github.io/projects/</loc>
   </url><url>
     <loc>https://rahuldshetty.github.io/tags/blog/</loc>
-    <lastmod>2021-02-08T21:00:00+05:30</lastmod>
+    <lastmod>2022-12-18T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://rahuldshetty.github.io/blog/</loc>
-    <lastmod>2021-02-08T21:00:00+05:30</lastmod>
+    <lastmod>2022-12-18T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://rahuldshetty.github.io/tags/code/</loc>
-    <lastmod>2021-02-08T21:00:00+05:30</lastmod>
+    <lastmod>2022-12-18T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://rahuldshetty.github.io/tags/compiler/</loc>
+    <lastmod>2022-12-18T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://rahuldshetty.github.io/tags/programming/</loc>
+    <lastmod>2022-12-18T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://rahuldshetty.github.io/tags/programming-language/</loc>
+    <lastmod>2022-12-18T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://rahuldshetty.github.io/</loc>
+    <lastmod>2022-12-18T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://rahuldshetty.github.io/tags/</loc>
+    <lastmod>2022-12-18T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://rahuldshetty.github.io/tags/keras/</loc>
     <lastmod>2021-02-08T21:00:00+05:30</lastmod>
@@ -28,13 +46,7 @@
     <loc>https://rahuldshetty.github.io/tags/python3/</loc>
     <lastmod>2021-02-08T21:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://rahuldshetty.github.io/</loc>
-    <lastmod>2021-02-08T21:00:00+05:30</lastmod>
-  </url><url>
     <loc>https://rahuldshetty.github.io/tags/reactjs/</loc>
-    <lastmod>2021-02-08T21:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://rahuldshetty.github.io/tags/</loc>
     <lastmod>2021-02-08T21:00:00+05:30</lastmod>
   </url><url>
     <loc>https://rahuldshetty.github.io/tags/tensorflowjs/</loc>
